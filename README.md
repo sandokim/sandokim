@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandokim&count_bg=%2300DBB1&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandokim&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--타이틀 부분-->
 
 <!--내용 부분-->
