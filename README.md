@@ -39,6 +39,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://sandokim.github.io/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Blog-1EBC8F?style=for-the-badge&logo=githubcopilot&logoColor=white" />&nbsp
   </a>
 </div>
