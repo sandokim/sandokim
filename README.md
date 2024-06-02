@@ -49,11 +49,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://sandokim.github.io/">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:hyeseongkim@yonsei.ac.kr">
-    <img
-      src="https://img.shields.io/badge/hyeseongkim@yonsei.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
