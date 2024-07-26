@@ -31,7 +31,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/adobe premierepro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp
 </div>
 
 <br>
