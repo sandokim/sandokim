@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsandokim&count_bg=%2300DBB1&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
-  </a>
-</div>
+Ph.D. Student at the Medical Artificial Intelligence Laboratory, Yonsei University, and Researcher at the Medical Navigation Laboratory, Korea Institute of Science and Technology (KIST). My research focuses on 3D Gaussian Splatting (3DGS) for sparse-view 3D reconstruction. Currently, I am particularly interested in Vision-Language-Action (VLA) models and their integration with 3D reconstruction for embodied intelligence. At KIST, I explore the application of these technologies to robot-assisted medical systems, aiming to bridge advanced 3D scene understanding with medical robotics for safer and more adaptive clinical interventions. I welcome academic collaboration and discussion in 3D reconstruction, embodied AI, VLA, and medical robotics.
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
