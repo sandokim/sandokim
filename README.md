@@ -24,16 +24,21 @@ Ph.D. Student at the Medical Artificial Intelligence Laboratory, Yonsei Universi
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/adobe premierepro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=black" />&nbsp
 </div>
-
 <br>
-  
+</div>
+
+<h3 align="center">🌍 Languages 🌍</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Korean-Native-003478?style=for-the-badge&logo=googletranslate&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/English-Professional-2C5BB4?style=for-the-badge&logo=googletranslate&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Japanese-Basic-EA4335?style=for-the-badge&logo=googletranslate&logoColor=white" />&nbsp
 </div>
 
 <br>
-
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Blog 📫</h3>
 <div align="center">
   <a href="https://sandokim.github.io/">
     <img src="https://img.shields.io/badge/Blog-1EBC8F?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   </a>
 </div>
+<br>
